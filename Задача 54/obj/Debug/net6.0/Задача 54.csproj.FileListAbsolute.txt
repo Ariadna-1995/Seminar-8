@@ -1,0 +1,30 @@
+C:\Users\bobko\Desktop\Домашнее задание 8 семинар\Задача 54\bin\Debug\net6.0\Задача 54.exe
+C:\Users\bobko\Desktop\Домашнее задание 8 семинар\Задача 54\bin\Debug\net6.0\Задача 54.deps.json
+C:\Users\bobko\Desktop\Домашнее задание 8 семинар\Задача 54\bin\Debug\net6.0\Задача 54.runtimeconfig.json
+C:\Users\bobko\Desktop\Домашнее задание 8 семинар\Задача 54\bin\Debug\net6.0\Задача 54.dll
+C:\Users\bobko\Desktop\Домашнее задание 8 семинар\Задача 54\bin\Debug\net6.0\Задача 54.pdb
+C:\Users\bobko\Desktop\Домашнее задание 8 семинар\Задача 54\obj\Debug\net6.0\Задача 54.csproj.AssemblyReference.cache
+C:\Users\bobko\Desktop\Домашнее задание 8 семинар\Задача 54\obj\Debug\net6.0\Задача 54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobko\Desktop\Домашнее задание 8 семинар\Задача 54\obj\Debug\net6.0\Задача 54.AssemblyInfoInputs.cache
+C:\Users\bobko\Desktop\Домашнее задание 8 семинар\Задача 54\obj\Debug\net6.0\Задача 54.AssemblyInfo.cs
+C:\Users\bobko\Desktop\Домашнее задание 8 семинар\Задача 54\obj\Debug\net6.0\Задача 54.csproj.CoreCompileInputs.cache
+C:\Users\bobko\Desktop\Домашнее задание 8 семинар\Задача 54\obj\Debug\net6.0\Задача 54.dll
+C:\Users\bobko\Desktop\Домашнее задание 8 семинар\Задача 54\obj\Debug\net6.0\refint\Задача 54.dll
+C:\Users\bobko\Desktop\Домашнее задание 8 семинар\Задача 54\obj\Debug\net6.0\Задача 54.pdb
+C:\Users\bobko\Desktop\Домашнее задание 8 семинар\Задача 54\obj\Debug\net6.0\Задача 54.genruntimeconfig.cache
+C:\Users\bobko\Desktop\Домашнее задание 8 семинар\Задача 54\obj\Debug\net6.0\ref\Задача 54.dll
+C:\Users\bobko\Desktop\Ариша Д-З\Домашнее задание 8 семинар\Задача 54\bin\Debug\net6.0\Задача 54.exe
+C:\Users\bobko\Desktop\Ариша Д-З\Домашнее задание 8 семинар\Задача 54\bin\Debug\net6.0\Задача 54.deps.json
+C:\Users\bobko\Desktop\Ариша Д-З\Домашнее задание 8 семинар\Задача 54\bin\Debug\net6.0\Задача 54.runtimeconfig.json
+C:\Users\bobko\Desktop\Ариша Д-З\Домашнее задание 8 семинар\Задача 54\bin\Debug\net6.0\Задача 54.dll
+C:\Users\bobko\Desktop\Ариша Д-З\Домашнее задание 8 семинар\Задача 54\bin\Debug\net6.0\Задача 54.pdb
+C:\Users\bobko\Desktop\Ариша Д-З\Домашнее задание 8 семинар\Задача 54\obj\Debug\net6.0\Задача 54.csproj.AssemblyReference.cache
+C:\Users\bobko\Desktop\Ариша Д-З\Домашнее задание 8 семинар\Задача 54\obj\Debug\net6.0\Задача 54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobko\Desktop\Ариша Д-З\Домашнее задание 8 семинар\Задача 54\obj\Debug\net6.0\Задача 54.AssemblyInfoInputs.cache
+C:\Users\bobko\Desktop\Ариша Д-З\Домашнее задание 8 семинар\Задача 54\obj\Debug\net6.0\Задача 54.AssemblyInfo.cs
+C:\Users\bobko\Desktop\Ариша Д-З\Домашнее задание 8 семинар\Задача 54\obj\Debug\net6.0\Задача 54.csproj.CoreCompileInputs.cache
+C:\Users\bobko\Desktop\Ариша Д-З\Домашнее задание 8 семинар\Задача 54\obj\Debug\net6.0\Задача 54.dll
+C:\Users\bobko\Desktop\Ариша Д-З\Домашнее задание 8 семинар\Задача 54\obj\Debug\net6.0\refint\Задача 54.dll
+C:\Users\bobko\Desktop\Ариша Д-З\Домашнее задание 8 семинар\Задача 54\obj\Debug\net6.0\Задача 54.pdb
+C:\Users\bobko\Desktop\Ариша Д-З\Домашнее задание 8 семинар\Задача 54\obj\Debug\net6.0\Задача 54.genruntimeconfig.cache
+C:\Users\bobko\Desktop\Ариша Д-З\Домашнее задание 8 семинар\Задача 54\obj\Debug\net6.0\ref\Задача 54.dll
